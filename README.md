@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @LilyVahdani
 - 👀 I’m interested in Business Analytics
 - 🌱 I’m currently learning Python, SSMS, Tableao
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/lily-vahdani/
 
 <!---
 LilyVahdani/LilyVahdani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
