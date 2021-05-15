@@ -61,4 +61,28 @@ SELECT COUNT(LastName) AS AllLastName FROM Employee
 
 SELECT MAX(Salary), AVG(Salary) FROM Salary
 
+where:
+
+SELECT *
+FROM Employee
+WHERE FirstName <> 'Jim'
+
+SELECT *
+FROM Employee
+WHERE Age <= 32 AND Gender = 'Male'
+
+SELECT *
+FROM Employee
+WHERE LastName LIKE 'S%' AND LastName LIKE '%o%'
+
+
+
+SELECT *
+FROM Employee
+WHERE FirstName IN ('Jim', 'Michael')
+
+SELECT *
+FROM Employee
+WHERE LastName IS NULL
+
 
